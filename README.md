@@ -55,8 +55,8 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Titan-X-Development/ticket-bot.git
-   cd ticket-bot
+   git clone https://github.com/Deekshithreddydev/TICKET-BOT-TITAN-X-DEVVELOPMENT-.git
+   cd TICKET-BOT-TITAN-X-DEVVELOPMENT-
    ```
 
 2. **Install dependencies:**
