@@ -55,8 +55,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Deekshithreddydev/TICKET-BOT-TITAN-X-DEVVELOPMENT-.git
-   cd TICKET-BOT-TITAN-X-DEVVELOPMENT-
+   git clone https://github.com/Deekshithreddydev/TICKET-BOT-TITAN-X-DEVVELOPMENT-.git && cd TICKET-BOT-TITAN-X-DEVVELOPMENT-
    ```
 
 2. **Install dependencies:**
